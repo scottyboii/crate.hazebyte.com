@@ -1,4 +1,4 @@
-# Configuration
+# Crate.yml 
 
 This page will explain each section key of the default crate.yml.
 

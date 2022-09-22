@@ -1,4 +1,4 @@
-# Configuration
+# Config.yml 
 
 * **[config.yml](config/config.md)**
 * [crate.yml](config/crate.md)
