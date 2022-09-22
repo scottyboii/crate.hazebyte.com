@@ -60,7 +60,7 @@ const sidebars = {
         'reference/screenshots',
       ], 
     },
-    'reference/update',
+    'upgrade/2.0.X',
     {
       type: 'category',
       label: 'API (For Developers)',
