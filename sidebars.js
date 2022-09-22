@@ -15,6 +15,7 @@
 const sidebars = {
   docs: [
     'introduction',
+    'faq',
     {
       type: 'category',
       label: 'Getting Started',
@@ -57,7 +58,6 @@ const sidebars = {
         'reference/potions',
         'reference/variables',
         'reference/screenshots',
-        'reference/faq',
       ], 
     },
     'reference/update',

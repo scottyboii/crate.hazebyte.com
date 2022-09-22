@@ -42,7 +42,9 @@ FoodKey:
     ...
 ```
 
-!> This plugin uses the EssentialsX item format. For more information about item parsing, [click here](#item-parser).
+:::info
+This plugin models the EssentialsX item format. For more information about item parsing, [click here](#item-parser).
+:::
 
 ### Animations
 
@@ -81,7 +83,9 @@ FoodKey:
     ...
 ```
 
-!> For holograms to work, you must have [HolographicDisplays](https://dev.bukkit.org/projects/holographic-displays) installed on your server
+:::info
+For holograms to work, you must have a hologram plugin installed. See [installation](installation.md).
+:::
 
 ### Confirmation
 
@@ -328,10 +332,14 @@ do not have the permission `user.vip`. Once the player receives the reward, they
             - 'chance:(10), permission:(user.vip), cmd:(pex add {player} user.vip), cmd:(/give {player} 64 diamond)'
 ```
 
-!> Operators (ops) have all permissions and won't be able to receive any rewards that have the permission tag.
+:::info
+Operators (ops) have all permissions and won't be able to receive any rewards that have the permission tag.
+:::
 
-!> Be sure to include fallback rewards if a player has all permission-based rewards. The plugin handles if there are no rewards
+:::info
+Be sure to include fallback rewards if a player has all permission-based rewards. The plugin handles if there are no rewards
 however you are encouraged catch and handle the situation.
+:::
 
 ###### Fallback Rewards
 
@@ -386,4 +394,6 @@ The crate will always give the player _a heal_ and either _a diamond or a iron_ 
             - 'unique:(),     chance:(1000),      item:(iron 1)'
 ```
 
-?> The chance tag for rewards that have the `always` tag is optional.
+:::info
+The chance tag for rewards that have the `always` tag is optional.
+:::
