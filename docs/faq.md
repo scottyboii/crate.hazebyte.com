@@ -27,3 +27,14 @@ See config.yml for decimal format
 ## Can we have multiple crate files?
 
 Yes, all valid crate files in the crate folder will be parsed and read
+
+## What is the difference between the free and premium version
+
+The premium version will have all the features of the free version including a subset of the following:
+
+1. A semi in-game editor command subsitute that allows you to export a chest of items into a rewards file. This will generate the reward strings that can be added to the crates. 
+2. Priority Support in Discord
+3. Priority Feature Requests
+4. Custom Model Data Support
+5. Fast updates for any issues and features
+6. NBT (Temporarily removed)
