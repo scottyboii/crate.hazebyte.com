@@ -24,9 +24,9 @@ const sidebars = {
       },
       collapsed: false,
       items: [
-        'installation',
-        'commands',
-        'first-time-usage'
+        'getting-started/installation',
+        'getting-started/commands',
+        'getting-started/first-time-usage'
       ],
     },
     {
@@ -39,7 +39,6 @@ const sidebars = {
       items: [
         'config/config',
         'config/crate',
-        'config/npc',
         'config/effects',
         'config/translating'
       ], 
@@ -63,11 +62,22 @@ const sidebars = {
     'upgrade/2.0.X',
     {
       type: 'category',
+      label: 'Extra (Extensions)',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: true,
+      items: [
+        'extra/npc',
+      ],  
+    },
+    {
+      type: 'category',
       label: 'API (For Developers)',
       link: {
         type: 'generated-index',
       },
-      collapsed: false,
+      collapsed: true,
       items: [
         'api/introduction',
       ],  

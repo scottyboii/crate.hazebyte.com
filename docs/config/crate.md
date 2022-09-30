@@ -84,7 +84,7 @@ FoodKey:
 ```
 
 :::info
-For holograms to work, you must have a hologram plugin installed. See [installation](installation.md).
+For holograms to work, you must have a hologram plugin installed. See [installation](../getting-started/installation.md).
 :::
 
 ### Confirmation
