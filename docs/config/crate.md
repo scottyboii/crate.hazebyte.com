@@ -1,4 +1,4 @@
-# Crate.yml 
+# Create a new crate
 
 This page will explain each section key of the default crate.yml.
 
