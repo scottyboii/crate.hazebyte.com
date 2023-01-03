@@ -6,8 +6,7 @@ CrateReloaded requires either the Bukkit or Spigot API. Note that the official v
 At this current moment, we do not support Sponge.
 
 **CrateReloaded from [Spigot - Free](https://www.spigotmc.org/resources/mystery-crate-crate-reloaded.861/), 
-[Spigot - Premium](https://www.spigotmc.org/resources/.3663/),
-[Bukkit](http://dev.bukkit.org/bukkit-plugins/crate-reloaded/)**
+[Spigot - Premium](https://www.spigotmc.org/resources/.3663/).
 
 :::info
 
