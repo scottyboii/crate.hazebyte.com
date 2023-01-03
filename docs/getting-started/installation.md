@@ -19,7 +19,8 @@ CrateReloaded has optional dependencies to improve ease-of-use.
 
 1. [**Vault**](https://www.spigotmc.org/resources/vault.34315/)
 2. **Essentials** or [**EssentialsX**](https://www.spigotmc.org/resources/essentialsx.9089/)
-3. [**HolographicDisplays**](https://dev.bukkit.org/projects/holographic-displays) or **CMI (Holographics)**
+3. [**HolographicDisplays**](https://dev.bukkit.org/projects/holographic-displays) or **[CMI](https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/?__cf_chl_tk=qeciDECk703nM57utNWdyBa5iv5RNYhXFtRjCDqCg7Y-1668999020-0-gaNycGzNDl) (Holographics)**.
+   * CrateReloaded PRO may also use [Decent Holograms](https://www.spigotmc.org/resources/decentholograms-1-8-1-19-3-papi-support-no-dependencies.96927/).
 4. [**CrateReloadedNPC**](https://www.spigotmc.org/resources/.60992/)
    * Depends on [**Citizens**](https://www.spigotmc.org/resources/citizens.13811/)
 
@@ -29,7 +30,7 @@ CrateReloaded has optional dependencies to improve ease-of-use.
 2. Drag and drop the `CrateReloaded.jar` and any optional plugin into your `plugins` folder.
 3. Start up the server.
 4. You can now begin using the plugin! For usage, click [here](first-time-usage)
-5. For customization, you can click [here](../config/general)
+5. For customization, you can click [here](../config/config.md)
 
 ## Post-Install: Configuration
 
