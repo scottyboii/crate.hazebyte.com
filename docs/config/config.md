@@ -59,7 +59,7 @@ cooldown: 1.0
 
 ## Hologram Provider
 
-Change what plugin is used for holograms. Supported plugins are [CMI](https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/?__cf_chl_tk=qeciDECk703nM57utNWdyBa5iv5RNYhXFtRjCDqCg7Y-1668999020-0-gaNycGzNDl) and [Holographic Displays](https://dev.bukkit.org/projects/holographic-displays?__cf_chl_tk=cAE.5wb0zR3bHUbTSY8NFRRG_dqjOaeN_tgwrqR0ifA-1672706846-0-gaNycGzNEr0). CrateReloaded Pro also supports [Decent Holograms](https://www.spigotmc.org/resources/decentholograms-1-8-1-19-3-papi-support-no-dependencies.96927/)
+Change what plugin is used for holograms. Supported plugins are [`CMI`](https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/?__cf_chl_tk=qeciDECk703nM57utNWdyBa5iv5RNYhXFtRjCDqCg7Y-1668999020-0-gaNycGzNDl) and [`HolographicDisplays`](https://dev.bukkit.org/projects/holographic-displays?__cf_chl_tk=cAE.5wb0zR3bHUbTSY8NFRRG_dqjOaeN_tgwrqR0ifA-1672706846-0-gaNycGzNEr0). CrateReloaded Pro also supports [`DecentHolograms`](https://www.spigotmc.org/resources/decentholograms-1-8-1-19-3-papi-support-no-dependencies.96927/)
 
 ```YML
 hologram-plugin: 'HolographicDisplays'
