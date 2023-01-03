@@ -2,9 +2,17 @@
 
 CrateReloaded supports a variety of particle effects to give your server the brilliant light it deserves.
 
-!> Cauldron Users: Please note that visual effects are not guaranteed to work on Cauldron, Thermos or any Forge servers.
+:::danger
 
-!> Effects are not supported on 1.8.X
+Cauldron Users: Please note that visual effects are not guaranteed to work on Cauldron, Thermos or any Forge servers.
+
+:::
+
+:::danger
+
+Effects are not supported on 1.8.X
+
+:::
 
 > Special thanks to creators of EffectLib!
 
