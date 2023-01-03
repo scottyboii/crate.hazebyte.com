@@ -4,9 +4,18 @@ In the config.yml, you may change the locale setting. If this option is not set,
 will default to english.
 
 Thanks to our community, we have the following translations...
-```
-%LANG
-```
+
+| Language | Code |
+| -------- | ---- |
+| English  | en   |
+| French   | fr   |
+| Italian  | it   |
+| Chinese  | zhs  |
+| Russian  | rf   |
+| German   | de   |
+| Vietnamese | vn |
+| Spanish  | es   |
+| Turkish  | tr   |
 
 ## Custom Messages
 
