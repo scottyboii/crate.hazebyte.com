@@ -285,8 +285,11 @@ Each reward is expected to have a chance.
     chance:(10)
 ```
 
-> If no chance is specified, the plugin will spit a soft error. The chance will default to zero and may
-still appear in preview systems but won't be included in reward rolls.
+:::caution
+
+If no chance is specified, the plugin will spit a soft error. The chance will default to zero and may still appear in preview systems but won't be included in reward rolls.
+
+:::
 
 ###### How does the chance system work?
 
