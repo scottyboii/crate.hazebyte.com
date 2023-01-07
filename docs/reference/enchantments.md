@@ -3,10 +3,11 @@
 The plugin supports custom enchantments. A full list of
 updated enchantments may be found [here](https://minecraft.gamepedia.com/Enchanting).
 
-To find out how to apply enchantments, click [here](../config/crate?id=examples)
+To find out how to apply enchantments, click [here](../config/crate#examples)
 
 | Name                     | Alternate Name           |
 | ------------------------ | ------------------------ |
+| unbreaking               | DURABILITY               |
 | environmental_protection | PROTECTION_ENVIRONMENTAL |
 | fire_protection          | PROTECTION_FIRE          |
 | fall_protection          | PROTECTION_FALL          |
